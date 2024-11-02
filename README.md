@@ -1,8 +1,8 @@
 # labpy03
 TUGAS PRAKTIKUM 3
-Nama : Noviza Diana
+Nama : Alfaridzi Zidane
 
-Nim : 352310890
+Nim : 352310895
 
 Kelas : IE.23.C12
 
@@ -15,7 +15,6 @@ intruksi perintah :
 4. Menggunakan fungsi random
 
 Screenshoot Hasil Program yang dibuat
-![Screenshot 2024-11-01 231047](https://github.com/user-attachments/assets/aa7b2486-ee6e-4ce8-8aec-29b30a958f83)
 Algoritma dan penjelasan
 
 1. Pertama kita buat program terlebih dahulu menggunakan Idle
@@ -44,7 +43,7 @@ Intruksi : Buat program untuk menampilkan bilangan terbesar dari n buah data yan
 Masukkan angka 0 untuk berhenti.
 
 Screenshot Hasil Dari Program yang dibuat
-![Screenshot 2024-11-01 235701](https://github.com/user-attachments/assets/a6e1bd05-0d68-49bb-b2af-bc5952dc2777)
+
 
 Algoritma dan penjelasan
 
@@ -71,7 +70,6 @@ sehingga laba menjadi 3%.
 Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 Screenshot Hasil Dari Program yang dibuat
-![Screenshot 2024-11-02 000414](https://github.com/user-attachments/assets/a9d540aa-62a7-4fd9-9a4c-007ca7d00ec6)
 
 Algoritma dan penjelasan
 
